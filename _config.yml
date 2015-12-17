@@ -1,0 +1,28 @@
+name: Dibert
+favicon: null
+layout_spectrum: 0.8336304246913642
+typography_spectrum: 0.8566140257753432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.12468019942753017
+  lightness: 0.5085461770649999
+  saturation: 0.6761184425558895
+  rhythmicContrast: 0.8266952559351921
+purpose: []
